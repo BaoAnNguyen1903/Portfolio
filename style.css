@@ -228,6 +228,8 @@ header.sticky {
 }
 .box img {
     margin-bottom: 20px;
+    height: 100px;
+    width: 100px;
 }
 .box h3 {
     font-size: 30px;
