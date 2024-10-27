@@ -372,7 +372,7 @@ form .send-btn:hover {
 }
 .footer {
     padding: 22px 16%;
-    background: transparent;
+    background:var(--second-bg-color) ;
     display: flex;
     align-items: center;
     justify-content: space-between;
